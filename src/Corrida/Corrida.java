@@ -44,7 +44,7 @@ public class Corrida {
                 "5.Ligar o carro. \n" +
                 "O que deseja fazer?");
 
-                Vou continuar o projeto para que possa acrescentar mais detalhes
+                Vou continuar o projeto para que possa acrescentar mais detalhes.
 
  */
 
