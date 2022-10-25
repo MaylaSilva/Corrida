@@ -42,7 +42,7 @@ public class Corrida {
                 "3.Parar o carro; \n" +
                 "4.Desligar o carro; \n" +
                 "5.Ligar o carro. \n" +
-                "O que deseja fazer?");
+                "O que deseja fazer?")
 
                 Vou continuar o projeto para que possa acrescentar mais detalhes
 
